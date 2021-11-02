@@ -17,3 +17,8 @@ This list consist of all users they have rights to using this application. Users
 
 <a href="/Using_rights/Licenses.md">List</a>
 
+## Description
+---
+
+## Languages
+This application written in PHP and JavaScript (pureJS) that can use in more than 90% web hosts.
