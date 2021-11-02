@@ -15,5 +15,5 @@ All rights of this software, including the right of ownership, patent and right 
 ### List of users they can use this application
 This list consist of all users they have rights to using this application. Users access limited and write in "()" deside of users' name.
 
-<a href="/Using_rights/list.md">List</a>
+<a href="/Using_rights/Licenses.md">List</a>
 
