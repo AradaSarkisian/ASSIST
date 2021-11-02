@@ -12,4 +12,8 @@ Of course, website owners must first incorporate this technology into their web 
 ## Copy right
 All rights of this software, including the right of ownership, patent and right of use belong to its owner "Arada Sarkisian" and use without the permission of its owner will be prosecuted. It should also be noted that this software is under a MIT copyright license.
 
+### List of users they can use this application
+This list consist of all users they have rights to using this application. Users access limited and write in "()" deside of users' name.
+
+<a href="/Using_rights/list.md">List</a>
 
