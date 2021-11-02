@@ -32,7 +32,7 @@ $conn->close();
 }
 function generateRandomString($length = 15) {
     include("docs/alfabetHandeling.php");
-    $characters = $numbers.$salfabet.$balfabet.$arabic.$sarmenian.$barmenian.$others;
+    $characters = $numbers.$s_alfabet.$b_alfabet.$arabic.$s_armenian.$b_armenian.$others;
     $charactersLength = strlen($characters);
     $randomString = '';
     for ($i = 0; $i < $length; $i++) {
