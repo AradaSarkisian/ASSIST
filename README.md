@@ -21,4 +21,4 @@ This list consist of all users they have rights to using this application. Users
 ---
 
 ## Languages
-This application written in PHP and JavaScript (pureJS) that can use in more than 90% web hosts.
+This application written in PHP and JavaScript that can use in more than 90% web hosts.
